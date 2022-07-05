@@ -1,0 +1,1 @@
+!function(){"use strict";!function(){const e=document.getElementById("closeIn"),t=document.getElementById("modal");e.addEventListener("click",(()=>{t.style.display="none"}))}(),function(){const e=document.querySelector(".menu-btn"),t=document.querySelector(".burger-bg");e.addEventListener("click",(()=>{t.classList.toggle("hidden")}))}()}();
